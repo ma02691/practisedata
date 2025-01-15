@@ -1,0 +1,63 @@
+[
+{
+"relativeurl" : "ma02691/practisedata/refs/heads/main/AdventureWorks_Products.csv",
+"P_Folder" : "Products",
+"P_File_name" : "Products.csv",
+"P_Container" : "bronze"
+},
+{
+"relativeurl" : "ma02691/practisedata/refs/heads/main/AdventureWorks_Calendar.csv",
+"P_Folder" : "Calendar",
+"P_File_name" : "Calendar.csv",
+"P_Container" : "bronze"
+},
+{
+"relativeurl" : "ma02691/practisedata/refs/heads/main/AdventureWorks_Customers.csv",
+"P_Folder" : "Customers",
+"P_File_name" : "Customers.csv",
+"P_Container" : "bronze"
+},
+{
+"relativeurl" : "ma02691/practisedata/refs/heads/main/AdventureWorks_Product_Categories.csv",
+"P_Folder" : "Product_Categories",
+"P_File_name" : "Product_Categories.csv",
+"P_Container" : "bronze"
+},
+{
+"relativeurl" : "ma02691/practisedata/refs/heads/main/AdventureWorks_Product_Subcategories.csv",
+"P_Folder" : "Product_Subcategories",
+"P_File_name" : "Product_Subcategories.csv",
+"P_Container" : "bronze"
+},
+{
+"relativeurl" : "ma02691/practisedata/refs/heads/main/AdventureWorks_Returns.csv",
+"P_Folder" : "Returns",
+"P_File_name" : "Returns.csv",
+"P_Container" : "bronze"
+},
+{
+"relativeurl" : "ma02691/practisedata/refs/heads/main/AdventureWorks_Sales_2015.csv",
+"P_Folder" : "Sales",
+"P_File_name" : "Sales_2015.csv",
+"P_Container" : "bronze"
+},
+{
+"relativeurl" : "ma02691/practisedata/refs/heads/main/AdventureWorks_Sales_2016.csv",
+"P_Folder" : "Sales",
+"P_File_name" : "Sales_2016.csv",
+"P_Container" : "bronze"
+},
+{
+"relativeurl" : "ma02691/practisedata/refs/heads/main/AdventureWorks_Sales_2017.csv",
+"P_Folder" : "Sales",
+"P_File_name" : "Sales_2017.csv",
+"P_Container" : "bronze"
+},
+{
+"relativeurl" : "ma02691/practisedata/refs/heads/main/AdventureWorks_Territories.csv",
+"P_Folder" : "Territories",
+"P_File_name" : "Territories.csv",
+"P_Container" : "bronze"
+},
+
+]
